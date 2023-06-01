@@ -1,5 +1,2 @@
 classes = 14
-train = data/train.txt
-valid = data/test.txt
-names = data/obj.names
-backup = /home/dimas/ReMPASI/backup
+names = data/obj_ReMPASI.names
